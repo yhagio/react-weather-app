@@ -5,7 +5,7 @@ var helpers = require('../utils/fetchWeather');
 
 var styles = {
   home: {
-    backgroundImage: "url('app/images/pattern.svg')",
+    backgroundImage: "url('../app/images/pattern.svg')",
     backgroundSize: 'cover',
     width: '100%',
     height: '100%',
